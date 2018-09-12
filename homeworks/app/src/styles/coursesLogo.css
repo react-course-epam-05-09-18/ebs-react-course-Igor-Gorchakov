@@ -1,0 +1,11 @@
+.cources-logo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.cources-logo-item {
+    width: 50%;
+    margin: 5px;
+    text-align: center;
+}
